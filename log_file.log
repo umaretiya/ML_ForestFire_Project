@@ -1,0 +1,129 @@
+30-06-2022 12:10:21 WARNING _internal =>  * Debugger is active!
+30-06-2022 12:10:21 INFO _internal =>  * Debugger PIN: 136-375-791
+30-06-2022 12:10:21 INFO _internal =>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+30-06-2022 12:18:56 INFO _internal =>  * Restarting with stat
+30-06-2022 12:18:57 WARNING _internal =>  * Debugger is active!
+30-06-2022 12:18:57 INFO _internal =>  * Debugger PIN: 136-375-791
+30-06-2022 12:18:57 INFO _internal =>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+30-06-2022 12:19:24 INFO _internal =>  * Restarting with stat
+30-06-2022 12:19:25 WARNING _internal =>  * Debugger is active!
+30-06-2022 12:19:25 INFO _internal =>  * Debugger PIN: 136-375-791
+30-06-2022 12:19:25 INFO _internal =>  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+30-06-2022 12:19:30 INFO _internal =>  * Detected change in 'C:\\Users\\nklyf\\PycharmProjects\\ML_EDA_Project\\Task_All ML\\Algerian_Fire_Project\\main_flask.py', reloading
+30-06-2022 12:19:30 INFO _internal =>  * Restarting with stat
+30-06-2022 12:19:59 INFO _internal =>  * Restarting with stat
+30-06-2022 12:21:19 INFO _internal =>  * Restarting with stat
+30-06-2022 12:30:23 INFO _internal =>  * Restarting with stat
+06/30/2022 12:34:00 PM:INFO:demo:Database created
+06/30/2022 12:34:18 PM:INFO:demo:Database created
+06/30/2022 12:35:06 PM:INFO:demo:Database created
+06/30/2022 12:35:11 PM:INFO:demo:Database created
+06/30/2022 12:35:11 PM:INFO:demo:Database created
+06/30/2022 12:35:19 PM:INFO:demo:Database created
+06/30/2022 12:39:38 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:39:51 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:49:45 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:49:45 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:50:04 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:50:05 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:50:34 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:50:34 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:50:55 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:50:55 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:51:22 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:51:23 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:52:43 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:52:43 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:53:23 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:53:24 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:53:52 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:53:53 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:54:22 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:54:22 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:54:57 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:54:57 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:55:23 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:55:23 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:55:47 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:55:47 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:57:22 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:57:23 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:58:13 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 12:58:14 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 12:58:14 PM:INFO:demo:main app running
+06/30/2022 12:58:17 PM:INFO:demo:home page is running
+06/30/2022 12:59:14 PM:INFO:demo:predict functions
+06/30/2022 01:00:44 PM:INFO:demo:home page is running
+06/30/2022 01:03:19 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:03:20 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:03:20 PM:INFO:demo:main app running
+06/30/2022 01:03:46 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:03:46 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:03:46 PM:INFO:demo:main app running
+06/30/2022 01:03:54 PM:INFO:demo:home page is running
+06/30/2022 01:04:15 PM:INFO:demo:predict functions
+06/30/2022 01:07:11 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:07:11 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:07:12 PM:INFO:demo:main app running
+06/30/2022 01:08:13 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:08:13 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:08:14 PM:INFO:demo:main app running
+06/30/2022 01:08:52 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:08:52 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:08:53 PM:INFO:demo:main app running
+06/30/2022 01:09:12 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:09:13 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:09:13 PM:INFO:demo:main app running
+06/30/2022 01:10:54 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:10:54 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:10:55 PM:INFO:demo:main app running
+06/30/2022 01:11:21 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:11:22 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:11:22 PM:INFO:demo:main app running
+06/30/2022 01:12:14 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:12:14 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:12:14 PM:INFO:demo:main app running
+06/30/2022 01:22:30 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:22:35 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:22:36 PM:INFO:demo:main app running
+06/30/2022 01:22:42 PM:INFO:demo:home page is running
+06/30/2022 01:23:49 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:23:50 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:23:51 PM:INFO:demo:main app running
+06/30/2022 01:23:57 PM:INFO:demo:home page is running
+06/30/2022 01:24:56 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:24:56 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:24:56 PM:INFO:demo:main app running
+06/30/2022 01:24:59 PM:INFO:demo:home page is running
+06/30/2022 01:28:41 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:28:44 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:30:12 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:30:13 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:30:17 PM:INFO:demo:main app running
+06/30/2022 01:30:21 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:30:21 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:30:22 PM:INFO:demo:main app running
+06/30/2022 01:37:41 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:37:45 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:40:58 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:41:16 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:41:28 PM:INFO:demo:main app running
+06/30/2022 01:42:45 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:42:47 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:42:50 PM:INFO:demo:main app running
+06/30/2022 01:43:32 PM:INFO:demo:home page is running
+06/30/2022 01:47:37 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:47:38 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:47:46 PM:INFO:demo:main app running
+06/30/2022 01:47:56 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:47:57 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:47:57 PM:INFO:demo:main app running
+06/30/2022 01:54:28 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:54:28 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:54:28 PM:INFO:demo:main app running
+06/30/2022 01:54:43 PM:INFO:demo:home page is running
+06/30/2022 01:55:18 PM:INFO:demo:Prediction done for Classification model
+06/30/2022 01:55:45 PM:INFO:demo:Prediction done for Regression model
+06/30/2022 01:56:23 PM:INFO:demo:Loading Pickle classificatins file
+06/30/2022 01:56:24 PM:INFO:demo:Loading Pickle regression file
+06/30/2022 01:56:24 PM:INFO:demo:main app running
