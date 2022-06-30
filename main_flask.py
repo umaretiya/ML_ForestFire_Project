@@ -100,4 +100,4 @@ def predictR():
 if __name__ == '__main__':
     print("mainstudy project")
     log.info("main app running")
-    app.run(debug=True)
+    app.run()
